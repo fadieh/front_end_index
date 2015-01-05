@@ -1,4 +1,4 @@
-#The Front End Index
+
 
 I've created this simply to share my knowledge of Design with everyone and consodilate all I know. It's also nice to use as a reference guide in the future.
 
